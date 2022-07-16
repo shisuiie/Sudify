@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Studify</string>
+    <string name="studify">Studify</string>
+    <string name="logo">TODO</string>
+    <string name="logoforlogin">TODO</string>
+    <string name="welcome_back_to_studify">Welcome Back to Studify!</string>
+    <string name="sign_in_to_continue">Sign in to continue</string>
+    <string name="username">Username</string>
+    <string name="password" />
+    <string name="password1">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="go">GO</string>
+    <string name="new_user_sign_up">New USer? SIGN UP</string>
+    <string name="forgot_your_password" />
+    <string name="welcome">Welcome</string>
+    <string name="create_an_account">Create an Account</string>
+    <string name="full_name">Full name</string>
+    <string name="email_address">Email Address</string>
+    <string name="password2">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register">Register</string>
+    <string name="have_an_account_login">Have an account? Login</string>
+</resources>
